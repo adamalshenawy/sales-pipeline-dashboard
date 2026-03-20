@@ -116,9 +116,10 @@ RETURN MAX(CountFromIFU, CountToIFU)
 
 ## 🚀 Getting Started
 1. Clone or download this repository
-2. Open `sales-pipeline-dashboard.pbix` in **Power BI Desktop**
-3. Connect to your data source via **Home → Transform Data → Data Source Settings**
-4. Refresh the data
+2. Unzip `sales-pipeline-dashboard.zip`
+3. Open `sales-pipeline-dashboard.pbix` in **Power BI Desktop**
+4. Connect to your data source via **Home → Transform Data → Data Source Settings**
+5. Refresh the data
 
 ---
 
