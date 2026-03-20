@@ -139,7 +139,10 @@ sales-pipeline-dashboard/
 ## 📸 Preview
 <img width="661" height="371" alt="image" src="https://github.com/user-attachments/assets/1887aafb-30fb-426a-8964-86b0c56fa333" />
 
+---
 
+## 🔗 Live Demo
+[View the live dashboard on Power BI Service](your-powerbi-link-here)
 
 ## 👤 Author
 
