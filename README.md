@@ -142,7 +142,7 @@ sales-pipeline-dashboard/
 ---
 
 ## 🔗 Live Demo
-[View the live dashboard on Power BI Service](your-powerbi-link-here)
+[View the live dashboard on Power BI Service]([your-powerbi-link-here](https://app.powerbi.com/view?r=eyJrIjoiNWQ4MzdmN2MtY2U5Ny00NDE1LTljODAtMGM0ZmFmOGQ5ZWY1IiwidCI6ImU3ZTkxMDI3LTk2NTEtNDMxYS04ZWY3LWQyZjI5MWNhODIyMCJ9))
 
 ## 👤 Author
 
